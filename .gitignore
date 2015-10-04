@@ -1,6 +1,7 @@
 # Ignore VSCode Configuration #
 ###################
 /.settings
+/.vscode
 
 # Ignore Visual Studio Project #
 ###################
@@ -74,4 +75,11 @@ ehthumbs.db
 Icon?
 Thumbs.db
 
+# JSCS and JSHint #
+######################
+*.jscsrc
+*.jshintrc
 
+# IDE's #
+.vscode
+.c9
